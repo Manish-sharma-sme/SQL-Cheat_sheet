@@ -6,7 +6,7 @@ Cheat Sheet for MY SQL
 ```bash
 mysql -u root -p
 ```
-## Show employees
+## Show users
 
 ```sql
 SELECT User, Host FROM mysql.user;
